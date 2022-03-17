@@ -1,0 +1,212 @@
+[
+  {
+    "employeName": "Test1",
+    "checkinTime": "9:00",
+    "checkouttime": "10:00",
+    "date": "2022-03-01",
+    "dept": "QA"
+  },
+  {
+    "employeName": "Test2",
+    "checkinTime": "10:00",
+    "checkouttime": "11:00",
+    "date": "2022-03-01",
+    "dept": "Dev"
+  },
+  {
+    "employeName": "Test3",
+    "checkinTime": "11:00",
+    "checkouttime": "12:00",
+    "date": "2022-03-01",
+    "dept": "Finance"
+  },
+  {
+    "employeName": "Test4",
+    "checkinTime": "12:00",
+    "checkouttime": "13:00",
+    "date": "2022-03-01",
+    "dept": "HR"
+  },
+  {
+    "employeName": "Test5",
+    "checkinTime": "13:00",
+    "checkouttime": "14:00",
+    "date": "2022-03-01",
+    "dept": "BA"
+  },
+  {
+    "employeName": "Test6",
+    "checkinTime": "14:00",
+    "checkouttime": "15:00",
+    "date": "2022-03-01",
+    "dept": "Admin"
+  },
+  {
+    "employeName": "Test1",
+    "checkinTime": "9:00",
+    "checkouttime": "10:00",
+    "date": "2022-03-02",
+    "dept": "QA"
+  },
+  {
+    "employeName": "Test2",
+    "checkinTime": "10:00",
+    "checkouttime": "11:00",
+    "date": "2022-03-02",
+    "dept": "Dev"
+  },
+  {
+    "employeName": "Test3",
+    "checkinTime": "11:00",
+    "checkouttime": "12:00",
+    "date": "2022-03-02",
+    "dept": "Finance"
+  },
+  {
+    "employeName": "Test4",
+    "checkinTime": "12:00",
+    "checkouttime": "13:00",
+    "date": "2022-03-02",
+    "dept": "HR"
+  },
+  {
+    "employeName": "Test5",
+    "checkinTime": "13:00",
+    "checkouttime": "14:00",
+    "date": "2022-03-02",
+    "dept": "BA"
+  },
+  {
+    "employeName": "Test6",
+    "checkinTime": "14:00",
+    "checkouttime": "15:00",
+    "date": "2022-03-02",
+    "dept": "Admin"
+  },
+  {
+    "employeName": "Test1",
+    "checkinTime": "9:00",
+    "checkouttime": "10:00",
+    "date": "2022-03-03",
+    "dept": "QA"
+  },
+  {
+    "employeName": "Test2",
+    "checkinTime": "10:00",
+    "checkouttime": "11:00",
+    "date": "2022-03-03",
+    "dept": "Dev"
+  },
+  {
+    "employeName": "Test3",
+    "checkinTime": "11:00",
+    "checkouttime": "12:00",
+    "date": "2022-03-03",
+    "dept": "Finance"
+  },
+  {
+    "employeName": "Test4",
+    "checkinTime": "12:00",
+    "checkouttime": "13:00",
+    "date": "2022-03-03",
+    "dept": "HR"
+  },
+  {
+    "employeName": "Test5",
+    "checkinTime": "13:00",
+    "checkouttime": "14:00",
+    "date": "2022-03-03",
+    "dept": "BA"
+  },
+  {
+    "employeName": "Test6",
+    "checkinTime": "14:00",
+    "checkouttime": "15:00",
+    "date": "2022-03-03",
+    "dept": "Admin"
+  },
+  {
+    "employeName": "Test1",
+    "checkinTime": "9:00",
+    "checkouttime": "10:00",
+    "date": "2022-03-04",
+    "dept": "QA"
+  },
+  {
+    "employeName": "Test2",
+    "checkinTime": "10:00",
+    "checkouttime": "11:00",
+    "date": "2022-03-04",
+    "dept": "Dev"
+  },
+  {
+    "employeName": "Test3",
+    "checkinTime": "11:00",
+    "checkouttime": "12:00",
+    "date": "2022-03-04",
+    "dept": "Finance"
+  },
+  {
+    "employeName": "Test4",
+    "checkinTime": "12:00",
+    "checkouttime": "13:00",
+    "date": "2022-03-04",
+    "dept": "HR"
+  },
+  {
+    "employeName": "Test5",
+    "checkinTime": "13:00",
+    "checkouttime": "14:00",
+    "date": "2022-03-04",
+    "dept": "BA"
+  },
+  {
+    "employeName": "Test6",
+    "checkinTime": "14:00",
+    "checkouttime": "15:00",
+    "date": "2022-03-04",
+    "dept": "Admin"
+  },
+  {
+    "employeName": "Test1",
+    "checkinTime": "9:00",
+    "checkouttime": "10:00",
+    "date": "2022-03-05",
+    "dept": "QA"
+  },
+  {
+    "employeName": "Test2",
+    "checkinTime": "10:00",
+    "checkouttime": "11:00",
+    "date": "2022-03-05",
+    "dept": "Dev"
+  },
+  {
+    "employeName": "Test3",
+    "checkinTime": "11:00",
+    "checkouttime": "12:00",
+    "date": "2022-03-05",
+    "dept": "Finance"
+  },
+  {
+    "employeName": "Test4",
+    "checkinTime": "12:00",
+    "checkouttime": "13:00",
+    "date": "2022-03-05",
+    "dept": "HR"
+  },
+  {
+    "employeName": "Test5",
+    "checkinTime": "13:00",
+    "checkouttime": "14:00",
+    "date": "2022-03-05",
+    "dept": "BA"
+  },
+  {
+    "employeName": "Test6",
+    "checkinTime": "14:00",
+    "checkouttime": "15:00",
+    "date": "2022-03-05",
+    "dept": "Admin"
+  }
+]
